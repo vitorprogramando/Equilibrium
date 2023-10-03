@@ -1,0 +1,16 @@
+*{
+
+}
+element.style {
+    touch-action: none;
+}
+.signature-canvas {
+    border: 2px solid #000;
+    margin-bottom: 10px;
+}
+user agent stylesheet
+canvas {
+    overflow-clip-margin: content-box;
+    overflow: clip;
+}
+
